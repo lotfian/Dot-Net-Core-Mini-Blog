@@ -1,7 +1,16 @@
+ <img align="left" width="116" height="116" src="https://s6.uupload.ir/files/666_whzg.png" />
+ 
 # Dot-Net-Core-Mini-Blog
 A simple Blog App in ASP.NET Core (Clean Architecture Solution )
 
-This is a simple Blog App with  ASP.NET Core 6 following the principles of Clean Architecture. 
+
+
+## This is a simple Blog App with  ASP.NET Core 6 following the principles of Clean Architecture. 
+
+
+<br>
+ <img align="center" width="600" height="300" src="https://s6.uupload.ir/files/screenshot_96mh.png" />
+
 
 ## Technologies:
 * ASP.NET Core 6
