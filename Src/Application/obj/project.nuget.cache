@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u4rGKNmbSx/HdRIoMZuVNjVu0MT+r6lxAaRLgwFnSSMiJBE1/GrPW1ygGKO8J0UNd2fVegVLfhw5TWyNZhbjeA==",
+  "dgSpecHash": "x8DoadkbHswtP0JyJKrgqznx/KJNYxuiJWCVd+dmqZRHJbn+GWXmBe4TqvP5vUMdhAYXt4eY4KNPChfK8l6Rpw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Application\\Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

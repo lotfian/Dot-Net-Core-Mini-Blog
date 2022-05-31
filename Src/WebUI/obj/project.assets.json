@@ -1863,11 +1863,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\WebUI\\WebUI.csproj",
+      "projectUniqueName": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\WebUI\\WebUI.csproj",
       "projectName": "WebUI",
-      "projectPath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\WebUI\\WebUI.csproj",
+      "projectPath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\WebUI\\WebUI.csproj",
       "packagesPath": "C:\\Users\\navid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\WebUI\\obj\\",
+      "outputPath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1884,8 +1884,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj"
+            "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

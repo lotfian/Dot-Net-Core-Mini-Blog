@@ -1845,11 +1845,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\navid\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\navid\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1866,8 +1866,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Domain\\Domain.csproj"
+            "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\navid\\Desktop\\MiniBlog\\Src\\Domain\\Domain.csproj"
             }
           }
         }
